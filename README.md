@@ -1,3 +1,7 @@
+
+<img align="center" src="header.png" />
+
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Nitin Kadyan and I'm a web-app developer. I'm from India, living in New Delhi. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
